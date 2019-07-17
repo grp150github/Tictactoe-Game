@@ -1,2 +1,11 @@
 this is a test file for the grp150github
+<<<<<<< HEAD
+
+2222
+4444
+thtyer
+
+
+=======
 this is the master.
+>>>>>>> 262d2f5a61903912d230fc97e3c1d56db94d7f63
